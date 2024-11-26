@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ajuda Comunitária</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navegação -->
+    <nav>
+        <div class="container">
+            <h1>Ajuda Comunitária</h1>
+            <ul class="menu">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#doacao">Doação</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Cabeçalho -->
+    <header id="home">
+        <div class="header-content">
+            <h1>Bem-vindo à Ajuda Comunitária</h1>
+            <p>Contribua para um mundo melhor com apenas alguns cliques!</p>
+            <a href="#doacao" class="cta-btn">Faça sua Doação</a>
+        </div>
+    </header>
+
+    <!-- Seção Sobre -->
+    <section id="sobre">
+        <div class="container">
+            <h2>Sobre Nós</h2>
+            <p>
+                Nossa missão é unir pessoas em torno de uma causa comum: ajudar quem precisa. Por meio da tecnologia
+                e transparência, oferecemos uma plataforma para doações seguras e anônimas.
+            </p>
+        </div>
+    </section>
+
+    <!-- Seção Doação -->
+    <section id="doacao">
+        <div class="container">
+            <h2>Como Doar?</h2>
+            <p>Escolha um dos endereços abaixo e clique no ícone para copiá-lo:</p>
+            <div class="crypto-addresses">
+                <p>
+                    <strong>Endereço Solana:</strong>
+                    <span class="address" id="solana-address">5jJAycuhbkxmGnhAgaGrwPczFJ2jxyhAvko8ZBN5hyCu</span>
+                    <button class="copy-btn" onclick="copyAddress('solana-address')">📋</button>
+                </p>
+                <p>
+                    <strong>Endereço EVM:</strong>
+                    <span class="address" id="evm-address">0x8CDCd2FB4A71A7cd556734758A0E1EE1eBe5cB65</span>
+                    <button class="copy-btn" onclick="copyAddress('evm-address')">📋</button>
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Rodapé -->
+    <footer id="contato">
+        <div class="container">
+            <h2>Contato</h2>
+            <p>Entre em contato para mais informações sobre nossas iniciativas.</p>
+            <p>Email: contato@ajudacomunitaria.com</p>
+            <p>Telefone: (00) 0000-0000</p>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script>
+        // Função para copiar endereço
+        function copyAddress(id) {
+            const address = document.getElementById(id).textContent;
+            navigator.clipboard.writeText(address).then(() => {
+                const btn = document.querySelector(`#${id} + .copy-btn`);
+                btn.textContent = "✔ Copiado!";
+                setTimeout(() => {
+                    btn.textContent = "📋";
+                }, 2000);
+            }).catch(err => console.error("Erro ao copiar:", err));
+        }
+    </script>
+</body>
+</html>
