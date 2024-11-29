@@ -5,7 +5,7 @@ Este projeto é uma iniciativa para promover a ajuda comunitária por meio de do
 
 A decisão de utilizar criptomoedas elimina a necessidade de cadastros ou bancos de dados para armazenar informações de usuários, garantindo total privacidade e segurança.
 
-O projeto foi divulgado para comunidades e amigos no geral que estão envolvidos na blokchain.
+O projeto foi divulgado para comunidades e amigos no geral que estão envolvidos na blockchain.
 
 ## obs: Na sessão do footer foi adicionada e-mail e número de telefone fictício, por se tratar de um projeto e evitar quaisquer meios legais que possam prejudicar o autor, o site ficara aberto até a correção do trabalho. Os doadores que ajudaram na causa estão cientes, pois na divulgação foi mencionada as questões acima.
 
@@ -52,9 +52,9 @@ Este projeto está hospedado na Vercel, uma plataforma moderna para desenvolvime
 - Escolha a branch para deploy (geralmente main).
 - Clique em Deploy e, em alguns segundos, seu site estará online!
 
-## Link do projeto
+# Link do projeto
 
-link do projeto: [Ajuda Comunitária - Vercel](https://extencao-3.vercel.app/#home)
+ link do projeto: [Ajuda Comunitária - Vercel](https://extencao-3.vercel.app/#home)
 
 
 # O que é Crypto (Criptomoeda)?
@@ -102,7 +102,7 @@ E possivel criar mais de uma carteira na mesma wallet e mudar para difersas rede
 
 ![image](https://github.com/user-attachments/assets/5c3c3763-085d-4a99-8d4a-92db2da69429)
 
-como descrito no site temos tambem o endereco na rede da solana, e por nao ser de uma rede diferente, e necessario instalar como extencao outra wallet, tais como: Phantom wallet, backpack wallet, solfare e etc. Contudo a funionalidade e basicamente a mesma que a da metamask e que apesar de ser em outra rede tem integracao com a EVM (Etherium Virtual Machine) tambem.
+como descrito no site temos tambem o endereco na rede da solana, e por ser de uma rede diferente, é necessario instalar como extensão outra wallet, tais como: Phantom wallet, backpack wallet, solfare e etc. Contudo a funionalidade e basicamente a mesma que a da metamask e que apesar de ser em outra rede tem integracao com a EVM (Etherium Virtual Machine) tambem.
 
 ![image](https://github.com/user-attachments/assets/a82fc50b-39dd-4120-b038-8d47fa80bb6d)
 
@@ -139,10 +139,10 @@ Exemplo de Funcionalidade de Contrato de Doação:
 O contrato pode permitir que o doador escolha um valor e envie diretamente para o contrato, sem que um intermediário precise estar envolvido. A execução do contrato pode garantir que os fundos sejam enviados para a causa certa de maneira automatizada.
 Em muitos casos, também pode ser possível rastrear as doações de maneira transparente na blockchain, algo que é uma grande vantagem em termos de confiança e segurança.
 Vantagens de Usar Contratos Inteligentes para Doações:
-Transparência: Todas as transações são visíveis na blockchain, garantindo que os doadores saibam exatamente como seus fundos estão sendo utilizados.
-Segurança: A tecnologia de blockchain garante que os fundos não podem ser alterados ou desviados, sem a autorização dos envolvidos.
-Descentralização: Não há intermediários, o que reduz custos e possibilita uma plataforma mais justa e direta.
-Automação: O contrato pode ser programado para realizar várias ações automaticamente, como transferir valores após atingirem certos critérios.
+- Transparência: Todas as transações são visíveis na blockchain, garantindo que os doadores saibam exatamente como seus fundos estão sendo utilizados.
+- Segurança: A tecnologia de blockchain garante que os fundos não podem ser alterados ou desviados, sem a autorização dos envolvidos.
+- Descentralização: Não há intermediários, o que reduz custos e possibilita uma plataforma mais justa e direta.
+- Automação: O contrato pode ser programado para realizar várias ações automaticamente, como transferir valores após atingirem certos critérios.
 
 
 
@@ -151,13 +151,14 @@ Automação: O contrato pode ser programado para realizar várias ações automa
 Um explorer de transações é uma ferramenta online que permite visualizar informações detalhadas sobre transações, blocos e endereços em uma blockchain. Ele funciona como um "navegador" para redes blockchain, fornecendo transparência e acessibilidade.
 
 Principais funções:
-Consulta de Transações: Permite verificar o status de uma transação (confirmada, pendente, etc.) usando o hash da transação.
-Visualização de Blocos: Mostra detalhes sobre blocos minerados, como tamanho, número de transações e recompensa do minerador.
-Análise de Endereços: Exibe o saldo e histórico de transações de endereços específicos.
-Hashes: Um hash é um identificador único gerado por um algoritmo criptográfico para representar transações ou blocos. É essencial para a segurança e rastreabilidade na blockchain.
+- Consulta de Transações: Permite verificar o status de uma transação (confirmada, pendente, etc.) usando o hash da transação.
+- Visualização de Blocos: Mostra detalhes sobre blocos minerados, como tamanho, número de transações e recompensa do minerador.
+- Análise de Endereços: Exibe o saldo e histórico de transações de endereços específicos.
+- Hashes: Um hash é um identificador único gerado por um algoritmo criptográfico para representar transações ou blocos. É essencial para a segurança e rastreabilidade na blockchain.
+  
 Explorers populares incluem [etherscan.io](https://etherscan.io/) (Ethereum) e [solscan.com](https://solscan.io/) (Solana). Eles ajudam usuários, desenvolvedores e auditores a monitorar e verificar a atividade em tempo real.
 
-mostrando as transação que houve no projeto de extencao ate o momento do dia 29/11/2024:
+mostrando as transação que houve no projeto ate o momento do dia 29/11/2024:
 
 EVM:
 ![image](https://github.com/user-attachments/assets/4317f0e5-271a-4f24-81d9-a5e055eb99cb)
@@ -173,5 +174,6 @@ O valor arrecadado foi instituido para a compra de uma caixa de leite e entre ou
 
 Segue a imagem com o RA do aluno responsavel pelo projeto:
 
+![image](https://github.com/user-attachments/assets/f747f18d-2e4b-4ac5-b678-0ba2adba3e41)
 
 
