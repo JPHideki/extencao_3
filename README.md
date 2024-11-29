@@ -5,6 +5,10 @@ Este projeto é uma iniciativa para promover a ajuda comunitária por meio de do
 
 A decisão de utilizar criptomoedas elimina a necessidade de cadastros ou bancos de dados para armazenar informações de usuários, garantindo total privacidade e segurança.
 
+O projeto foi divulgado para comunidades e amigos no geral que estão envolvidos na blokchain.
+
+## obs: Na sessão do footer foi adicionada e-mail e número de telefone fictício, por se tratar de um projeto e evitar quaisquer meios legais que possam prejudicar o autor, o site ficara aberto até a correção do trabalho. Os doadores que ajudaram na causa estão cientes, pois na divulgação foi mencionada as questões acima.
+
 # 🚀 Funcionalidades
 
 - Interface amigável para visualização de informações sobre a causa apoiada.
@@ -50,7 +54,7 @@ Este projeto está hospedado na Vercel, uma plataforma moderna para desenvolvime
 
 ## Link do projeto
 
-link do projeto: [Ajuda Comunitária - Vercel](url)
+link do projeto: [Ajuda Comunitária - Vercel](https://extencao-3.vercel.app/#home)
 
 
 # O que é Crypto (Criptomoeda)?
@@ -153,12 +157,21 @@ Análise de Endereços: Exibe o saldo e histórico de transações de endereços
 Hashes: Um hash é um identificador único gerado por um algoritmo criptográfico para representar transações ou blocos. É essencial para a segurança e rastreabilidade na blockchain.
 Explorers populares incluem [etherscan.io](https://etherscan.io/) (Ethereum) e [solscan.com](https://solscan.io/) (Solana). Eles ajudam usuários, desenvolvedores e auditores a monitorar e verificar a atividade em tempo real.
 
-mostrando as transacoes que houve no projeto de extencao ate o momento do dia 27/11/2024:
+mostrando as transação que houve no projeto de extencao ate o momento do dia 29/11/2024:
 
 EVM:
+![image](https://github.com/user-attachments/assets/4317f0e5-271a-4f24-81d9-a5e055eb99cb)
+
 
 
 
 SOLANA:
+![image](https://github.com/user-attachments/assets/5c43db0e-c1ea-4460-af61-ad8fbac603b9)
+
+
+O valor arrecadado foi instituido para a compra de uma caixa de leite e entre outros mantimentos destinados a doação.
+
+Segue a imagem com o RA do aluno responsavel pelo projeto:
+
 
 
